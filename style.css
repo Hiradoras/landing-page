@@ -1,0 +1,13 @@
+.dark-mode{
+  background-color: black;
+    -webkit-text-fill-color: white; 
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+body{
+  background-color: brown;
+}
+.container{
+    font-family: fantasy;
+    
+}
